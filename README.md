@@ -42,5 +42,5 @@ To use the trained model for lung cancer segmentation, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/lung-cancer-segmentation.git
-   cd lung-cancer-segmentation
+   git clone https://github.com/irene2023study/NLSTseg/tree/main.git
+   cd Unet_seg
