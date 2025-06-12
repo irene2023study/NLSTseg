@@ -1,4 +1,4 @@
-# Lung Cancer Segmentation Model Using U-Net
+# Lung Cancer Segmentation Model Using NLSTseg dataset
 
 This repository contains a medical image prediction model that performs **lung cancer segmentation** from CT scans using a **U-Net architecture**. The model was trained on the **NLSTseg** dataset, which is derived from the **NLST** (National Lung Screening Trial) dataset. This work aims to provide a tool for detecting lung cancer at a pixel-level segmentation.
 
